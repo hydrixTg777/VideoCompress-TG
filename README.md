@@ -1,4 +1,4 @@
-# VideoCompress
+# VideoCompress ⚡
 A Telegram Video Compressor Bot By [@AbirHasan2005](https://t.me/linux_repo). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
 
 ### Logger Mode:
