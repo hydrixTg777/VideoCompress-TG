@@ -32,7 +32,7 @@ async def help_message_f(client, message):
                     InlineKeyboardButton('📣 Channel', url='https://t.me/Tg_Galaxy')
                 ],
                 [
-                    InlineKeyboardButton('👥 Group', url='https://t.me/linux_repo')
+                    InlineKeyboardButton('👥 Group', url='https://t.me/lihdjdjdjdjdjho')
                 ]
             ]
         ),
